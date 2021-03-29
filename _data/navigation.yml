@@ -16,6 +16,8 @@ main:
     sublinks:
       - title: "Jquery"
         url: /javascript/jquery/
+      - title: "test"
+          url: /javascript/test/
 
 
   - title: "Spring"
@@ -23,8 +25,8 @@ main:
       - title: "AOP/MVC/PSA"
         url: /spring/concept/
       - title: "Annotations"
-        url: /spring/annotations/        
-    
+        url: /spring/annotations/
+
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
