@@ -17,7 +17,7 @@ main:
       - title: "Jquery"
         url: /javascript/jquery/
       - title: "test"
-          url: /javascript/test/
+        url: /javascript/test/
 
 
   - title: "Spring"
