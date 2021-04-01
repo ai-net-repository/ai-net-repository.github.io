@@ -23,7 +23,7 @@ main:
   - title: "Spring"
     sublinks:
       - title: "AOP/MVC/PSA"
-        url: /spring/concept/
+        url: /spring/basic/
       - title: "Annotations"
         url: /spring/annotations/
 
