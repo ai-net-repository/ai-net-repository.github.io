@@ -27,6 +27,13 @@ main:
       - title: "Annotations"
         url: /spring/annotations/
 
+  - title: "Web"
+    sublinks:
+      - title: "CSS"
+        url: /web/css/
+      - title: "DOM"
+        url: /web/dom/        
+
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
